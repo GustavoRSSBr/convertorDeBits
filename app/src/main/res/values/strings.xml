@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calcular bits</string>
+    <string name="bytes">Bytes</string>
+    <string name="kb">KB</string>
+    <string name="mb">MB</string>
+    <string name="gb">GB</string>
+    <string name="tb">TB</string>
+    <string name="converter">Converter</string>
+    <string name="ed_bits">Digite o valor em bits</string>
+</resources>
